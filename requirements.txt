@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+sqlalchemy
+python-dotenv
+bcrypt
+python-jose
+psycopg2-binary
